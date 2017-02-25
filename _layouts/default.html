@@ -1,0 +1,46 @@
+<html>
+{% include head.html %}
+<body>
+
+<ul id="slide-out" class="side-nav fixed">
+  {% include header.html %}
+  {% include menu.html %}
+</ul>
+
+<main>
+  <nav class="top-nav">
+    <div class="nav-wrapper">
+      <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
+      <h1 class="page-title">{{ page.title }}</h1>
+    </div>
+  </nav>
+  <div class="container">
+    {% assign sorted_articles = site.articles | sort:"weight" %}
+    {% for article in sorted_articles %}
+      {% if article.parent == page.topic %}
+        <a id="{{ article.anchor }}"></a>
+        <h2>{{ article.title }}</h2>
+        {{ article.content }}
+        <br><br>
+      {% endif %}
+    {% endfor %}
+  </div>
+</main>
+{% include footer.html %}
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="/assets/materialize/js/materialize.min.js"></script>
+<script type="text/javascript">
+$(".button-collapse").sideNav()
+
+$(".sidenav-close").on('click',function(){
+  $('.button-collapse').sideNav('hide')
+})
+
+$(".side-nav a").on('click',function(){
+  if ($(document).width() < 992){
+    $('.button-collapse').sideNav('hide')
+  }
+})
+</script>
+</body>
+</html>
