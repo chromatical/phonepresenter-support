@@ -1,7 +1,7 @@
 ---
+title: Pairing Failed
 parent: troubleshooting
 layout: article
-title: Pairing Failed
 anchor: pairing-failed
 weight: 1
 ---

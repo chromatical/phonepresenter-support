@@ -1,7 +1,7 @@
 ---
+title: Accessing Settings
 parent: configuration
 layout: article
-title: Accessing Settings
 anchor: accessing-settings
 weight: 0
 ---

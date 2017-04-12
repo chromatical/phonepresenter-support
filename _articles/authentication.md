@@ -1,7 +1,7 @@
 ---
+title: Enabling Authentication
 parent: configuration
 layout: article
-title: Enabling Authentication
 anchor: enabling-authentication
 weight: 1
 ---

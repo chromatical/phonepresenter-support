@@ -1,7 +1,7 @@
 ---
+title: Installing on Mac
 parent: installing
 layout: article
-title: Installing on Mac
 anchor: install-mac
 weight: 1
 ---

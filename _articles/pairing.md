@@ -1,7 +1,7 @@
 ---
+title: Pairing a Device
 parent: pairing
 layout: article
-title: Pairing a Device
 anchor: pairing-device
 weight: 0
 ---

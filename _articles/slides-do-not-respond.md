@@ -1,7 +1,7 @@
 ---
+title: Slides do not Respond
 parent: troubleshooting
 layout: article
-title: Slides do not Respond
 anchor: slides-do-not-respond
 weight: 2
 ---

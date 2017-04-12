@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Configuration
+layout: page
 topic: configuration
 weight: 10
 ---

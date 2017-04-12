@@ -1,7 +1,7 @@
 ---
+title: Pairing Without Internet
 parent: pairing
 layout: article
-title: Pairing Without Internet
 anchor: pairing-without-internet
 weight: 1
 ---

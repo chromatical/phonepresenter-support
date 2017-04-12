@@ -1,7 +1,7 @@
 ---
+title: Installing on Linux
 parent: installing
 layout: article
-title: Installing on Linux
 anchor: install-linux
 weight: 2
 ---

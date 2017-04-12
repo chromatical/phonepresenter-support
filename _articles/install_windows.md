@@ -1,7 +1,7 @@
 ---
+title: Installing on Windows
 parent: installing
 layout: article
-title: Installing on Windows
 anchor: install-windows
 weight: 0
 ---

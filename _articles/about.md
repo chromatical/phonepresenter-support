@@ -1,7 +1,7 @@
 ---
+title: About PhonePresenter
 parent: about
 layout: article
-title: About PhonePresenter
 anchor: about-phonepresenter
 weight: 0
 ---

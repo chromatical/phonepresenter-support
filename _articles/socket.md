@@ -1,7 +1,7 @@
 ---
+title: Custom Socket
 parent: configuration
 layout: article
-title: Custom Socket
 anchor: custom-socket
 weight: 2
 ---

@@ -1,7 +1,7 @@
 ---
+title: Server Error
 parent: troubleshooting
 layout: article
-title: Server Error
 anchor: server-error
 weight: 0
 ---
