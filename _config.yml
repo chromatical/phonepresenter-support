@@ -30,3 +30,4 @@ remote_theme: chromatical/jekyll-materialdocs
 exclude:
   - Gemfile
   - Gemfile.lock
+menu_style: dropdown
