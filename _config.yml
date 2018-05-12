@@ -16,7 +16,7 @@
 title: PhonePresenter Support
 email: hello@chromaticaldesign.com
 description: The PhonePresenter Support Center
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 search: true
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 feed: false
