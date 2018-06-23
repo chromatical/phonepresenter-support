@@ -4,4 +4,4 @@ title: Contact Support
 weight: 40
 ---
 
-Please contact support by emailing [info@phonepresenter.com](mailto:info@phonepresenter.com).
+Please [open an issue on GitHub](https://github.com/PhonePresenter/docs/issues).
