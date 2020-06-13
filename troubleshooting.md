@@ -7,8 +7,8 @@ title: Troubleshooting
 weight: 5
 ---
 
-[Pairing Failed](/pairing-failed.html)
+[Pairing Failed](/docs/pairing-failed.html)
 
-[Server Error](/server-error.html)
+[Server Error](/docs/server-error.html)
 
-[Slides Not Responding](/slides-not-responding.html)
+[Slides Not Responding](/docs/slides-not-responding.html)
